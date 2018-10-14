@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="927041" started-at="2018-09-30T14:17:46Z" finished-at="2018-09-30T14:33:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="927041" started-at="2018-09-30T14:17:46Z" finished-at="2018-09-30T14:33:13Z">
+      <class name="com.techno.Multitab">
+        <test-method status="PASS" signature="Facebook()[pri:0, instance:com.techno.Multitab@1ce92674]" name="Facebook" duration-ms="926929" started-at="2018-09-30T19:47:46Z" finished-at="2018-09-30T20:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+      </class> <!-- com.techno.Multitab -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
